@@ -14,8 +14,8 @@ Ein vollständiges Active Directory Home Lab zur Lernzwecken und Tests. Dieses S
 
 <h2>Environments Used </h2>
 
-- <b>Server 2019 ISO</br>
-- Windows 10 ISO</b> (21H2)
+- <b>Server 2025 ISO</br>
+- Windows 11 ISO</b> (25H2)
 
 <h2>Program walk-through:</h2>
 
