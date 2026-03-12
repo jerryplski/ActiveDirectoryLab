@@ -10,7 +10,7 @@ Ein vollständiges Active Directory Home Lab zur Lernzwecken und Tests. Dieses S
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b>
-- <b>Oracle VirtualBox</b>
+- <b>Proxmox / Hyper-V</b>
 
 <h2>Environments Used </h2>
 
