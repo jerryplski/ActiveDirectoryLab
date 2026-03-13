@@ -1,6 +1,6 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Proxmox Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration]()
 
 <h2>Description</h2>
 Ein vollständiges Active Directory Home Lab zur Lernzwecken und Tests. Dieses Setup bietet eine virtuelle Umgebung mit Domänencontrollern, Clients und gängigen AD-Diensten. Ideal für IT-Sicherheit, Systemadministration und Automatisierung. Enthält Anleitungen zur Einrichtung mit Hyper-V/VMware und Skripte zur Automatisierung.
